@@ -1,0 +1,36 @@
+
+ogunj@Oladele MINGW64 ~/cohort
+$ ls
+code/
+
+ogunj@Oladele MINGW64 ~/cohort
+$ cd code
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ ls
+module/
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ ren module module301
+bash: ren: command not found
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ mv module module301
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ ls
+module301/
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ cd module301
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ ls
+2024-4-command-line/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ cd 2024-4-command-line
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+note.txt

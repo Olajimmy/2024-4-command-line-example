@@ -1,0 +1,1040 @@
+
+ogunj@Oladele MINGW64 ~/cohort
+$ ls
+code/
+
+ogunj@Oladele MINGW64 ~/cohort
+$ cd code
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ ls
+module301/
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ cd module301
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ ls
+2024-4-command-line/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ cd 2024-4-command-line
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+index.html  note.txt  styles/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+index.html  note.txt  styles/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ cd styles
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/styles
+$ ls
+style.css
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/styles
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ mkdir scripts
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ cd scripts
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/scripts
+$ touch script.js
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/scripts
+$ ls
+script.js
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/scripts
+$ pwd
+/c/Users/ogunj/cohort/code/module301/2024-4-command-line/scripts
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/scripts
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+index.html  note.txt  scripts/  styles/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ pwd
+/c/Users/ogunj/cohort/code/module301/2024-4-command-line
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ mv 2024-4-command-line 2024-4-10-command-line
+mv: cannot stat '2024-4-command-line': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ ls
+2024-4-command-line/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ mv 2024-4-command-line 2024-4-10-command-line
+mv: cannot move '2024-4-command-line' to '2024-4-10-command-line': Permission denied
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ cd 2024-4-command-line
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+index.html  note.txt  scripts/  styles/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ mkdir galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ cd galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ touch commands.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mkdir death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ touch darth_vader.txt princess_leia.txt storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ pwd
+/c/Users/ogunj/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mkdir tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ touch luke.txt ben_kenobi.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+ben_kenobi.txt  luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mkdir millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ touch han_solo.txt chewbaca.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+ben_kenobi.txt  luke.txt  millenium_falcon/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mv ben_kenobi.txt obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tatooine/
+cp: cannot create regular file 'tatooine/': Not a directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ pwd
+/c/Users/ogunj/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt  tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ rm tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cp tatooine storm_trooper.txt
+cp: cannot stat 'tatooine': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cp tatooine/ storm_trooper.txt
+cp: cannot stat 'tatooine/': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cp storm_trooper.txt tatooine
+cp: cannot stat 'storm_trooper.txt': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt ../tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ~
+
+ogunj@Oladele MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ cohort/
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{31430c27-68d7-11ef-a0bf-904c2d04624e}.TM.blf
+ NTUSER.DAT{31430c27-68d7-11ef-a0bf-904c2d04624e}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{31430c27-68d7-11ef-a0bf-904c2d04624e}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+
+ogunj@Oladele MINGW64 ~
+$ cd cohort
+
+ogunj@Oladele MINGW64 ~/cohort
+$ ls
+code/
+
+ogunj@Oladele MINGW64 ~/cohort
+$ ls
+code/
+
+ogunj@Oladele MINGW64 ~/cohort
+$ cd code
+
+ogunj@Oladele MINGW64 ~/cohort/code
+$ cd module301
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ ls
+2024-4-command-line/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301
+$ cd 2024-4-command-line
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+galaxy-far-far-away/  index.html  note.txt  scripts/  styles/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ cd galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mv luke.txt millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  obi_wan.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mv obi_wan.txt millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ mv obi_wan.txt luke.txt tatooine
+mv: target 'tatooine' is not a directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ mv obi_wan.txt tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ mv obi_wan.txt millenium_falcon
+mv: cannot stat 'obi_wan.txt': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ rm tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ ls
+galaxy-far-far-away/  index.html  note.txt  scripts/  styles/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line
+$ cd galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd tatooine
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ touch luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mv luke.txt millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ touch obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ rm obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ touch obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  obi_wan.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mv obi_wan.txt millenium_falcon/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd millenium_falcon/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ mv millenium_falcon/ ../galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ ls
+storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/tatooine
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  galaxy-far-far-away/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd galaxy-far-far-away/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/galaxy-far-far-away 
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/galaxy-far-far-away 
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  galaxy-far-far-away/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd galaxy-far-far-away/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/galaxy-far-far-away 
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/galaxy-far-far-away 
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  galaxy-far-far-away/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  galaxy-far-far-away/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv galaxy-far-far-away/ millenium_falcon
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv millenium_falcon/ death_star/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  millenium_falcon/  princess_leia.txt  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv princess_leia.txt millenium_falcon/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  millenium_falcon/  storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd millenium_falcon/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt  princess_leia.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/millenium_falcon
+$ rm obi_wan.txt 
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  princess_leia.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ pwd
+/c/Users/ogunj/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mkdir yavin_4
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv death_star/millenium_falcon/ yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ mkdir x_wing
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ mv millenium_falcon/princess_leia.txt /.
+./  ../
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ mv millenium_falcon/princess_leia.txt /.
+./  ../
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ mv millenium_falcon/princess_leia.txt .yavin_4
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd millenium_falcon/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4/millenium_falcon
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4/x_wing      
+$ ls
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4/x_wing      
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  princess_leia.txt  x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ mv millenium_falcon/luke.txt x_wing/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  princess_leia.txt  x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4/x_wing      
+$ ls
+luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4/x_wing      
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  tatooine/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv yavin_4/millenium_falcon/ ../galaxy-far-far-away/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv yavin_4/x_wing/ ../galaxy-far-far-away/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ ls
+princess_leia.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/yavin_4
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mkdir tie_fighter_1 tie_fighter_2
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  storm_trooper.txt  tie_fighter_1/  tie_fighter_2/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mkdir tie_fighter_3
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+darth_vader.txt  storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv tie_fighter_1/darth_vader.txt.
+mv: missing destination file operand after 'tie_fighter_1/darth_vader.txt.'
+Try 'mv --help' for more information.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv tie_fighter_1/darth_vader.txt /.
+mv: cannot stat 'tie_fighter_1/darth_vader.txt': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv tie_fighter_1/darth_vader.txt/.
+mv: missing destination file operand after 'tie_fighter_1/darth_vader.txt/.'
+Try 'mv --help' for more information.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv daerth_vader tie_fighter_1.
+mv: cannot stat 'daerth_vader': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv darth_vader tie_fighter_1.
+mv: cannot stat 'darth_vader': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv darth_vader tie_fighter_1/.
+mv: cannot stat 'darth_vader': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv darth_vader.txt tie_fighter_1/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+$ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv darth_vader tie_fighter_1.
+mv: cannot stat 'darth_vader': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv darth_vader tie_fighter_1/.
+mv: cannot stat 'darth_vader': No such file or directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ mv darth_vader.txt tie_fighter_1/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tie_fighter_2
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd tie_fighter_2
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_2
+$ cp storm_trooper.txt ../tie_fighter_3
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_2
+$ cp storm_trooper.txt ../tie_fighter_3
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_2
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd tie_fighter_3
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_3
+$ ls
+storm_trooper.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star/tie_fighter_3
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/x_wing
+$ ls
+luke.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/x_wing
+$ touch the_force.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/x_wing
+$ ls
+luke.txt  the_force.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/x_wing
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ rm death_star/
+rm: cannot remove 'death_star/': Is a directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ cd death_star/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ rm tie_fighter_2 tie_fighter_3
+rm: cannot remove 'tie_fighter_2': Is a directory
+rm: cannot remove 'tie_fighter_3': Is a directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ rm tie_fighter_2 
+rm: cannot remove 'tie_fighter_2': Is a directory
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ pwd
+/c/Users/ogunj/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ rm -r tie_fighter_2
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_3/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ rm -r tie_fighter_3
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/death_star
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$  cd x_wing/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/x_wing
+$ ls
+luke.txt  the_force.txt
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away/x_wing
+$ cd ..
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ rm -r death_star/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv millenium_falcon/ yavin_4/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  tatooine/  x_wing/  yavin_4/
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ mv x_wing/ yavin_4/.
+
+ogunj@Oladele MINGW64 ~/cohort/code/module301/2024-4-command-line/galaxy-far-far-away
+$ ls
+commands.txt  tatooine/  yavin_4/
+
+$ cd yavin_4/
+
+$ ls
+millenium_falcon/  princess_leia.txt  x_wing/
+
+$ cd ..
+
